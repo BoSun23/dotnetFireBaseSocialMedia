@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|c:\\users\\sunbo\\desktop\\johnabbott\\fsd11\\app ii\\socialapp\\socialapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|c:\\users\\sunbo\\desktop\\johnabbott\\fsd11\\app ii\\socialapp\\socialapp\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|c:\\users\\sunbo\\desktop\\johnabbott\\fsd11\\app ii\\socialapp\\socialapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|c:\\users\\sunbo\\desktop\\johnabbott\\fsd11\\app ii\\socialapp\\socialapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|c:\\users\\sunbo\\desktop\\johnabbott\\fsd11\\app ii\\socialapp\\socialapp\\views\\user\\myprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\views\\user\\myprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|c:\\users\\sunbo\\desktop\\johnabbott\\fsd11\\app ii\\socialapp\\socialapp\\views\\user\\createprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\views\\user\\createprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|c:\\users\\sunbo\\desktop\\johnabbott\\fsd11\\app ii\\socialapp\\socialapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|c:\\users\\sunbo\\desktop\\johnabbott\\fsd11\\app ii\\socialapp\\socialapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|c:\\users\\sunbo\\desktop\\johnabbott\\fsd11\\app ii\\socialapp\\socialapp\\models\\commentdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\models\\commentdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|c:\\users\\sunbo\\desktop\\johnabbott\\fsd11\\app ii\\socialapp\\socialapp\\models\\postdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6DFAA9-07EC-453C-92FB-EAC6E6C41063}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\models\\postdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "myProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Views\\User\\myProfile.cshtml",
+              "RelativeDocumentMoniker": "SocialApp\\Views\\User\\myProfile.cshtml",
+              "ToolTip": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Views\\User\\myProfile.cshtml",
+              "RelativeToolTip": "SocialApp\\Views\\User\\myProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T13:32:53.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SocialApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SocialApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T13:04:49.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SocialApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SocialApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:43:33.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Views\\Auth\\Signup.cshtml",
+              "RelativeDocumentMoniker": "SocialApp\\Views\\Auth\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Views\\Auth\\Signup.cshtml",
+              "RelativeToolTip": "SocialApp\\Views\\Auth\\Signup.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T13:01:49.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "SocialApp\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "SocialApp\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T12:58:52.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SocialApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Models\\User.cs",
+              "RelativeToolTip": "SocialApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:57:23.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Views\\User\\CreateProfile.cshtml",
+              "RelativeDocumentMoniker": "SocialApp\\Views\\User\\CreateProfile.cshtml",
+              "ToolTip": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Views\\User\\CreateProfile.cshtml",
+              "RelativeToolTip": "SocialApp\\Views\\User\\CreateProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T00:56:55.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SocialApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SocialApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:44:39.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentDoc.cs",
+              "DocumentMoniker": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Models\\CommentDoc.cs",
+              "RelativeDocumentMoniker": "SocialApp\\Models\\CommentDoc.cs",
+              "ToolTip": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Models\\CommentDoc.cs",
+              "RelativeToolTip": "SocialApp\\Models\\CommentDoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:52:34.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostDoc.cs",
+              "DocumentMoniker": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Models\\PostDoc.cs",
+              "RelativeDocumentMoniker": "SocialApp\\Models\\PostDoc.cs",
+              "ToolTip": "C:\\Users\\sunbo\\Desktop\\JohnAbbott\\FSD11\\App II\\SocialApp\\SocialApp\\Models\\PostDoc.cs",
+              "RelativeToolTip": "SocialApp\\Models\\PostDoc.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:27:35.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
